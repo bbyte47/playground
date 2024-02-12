@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Electron on My New Hugo Site</title>
+    <link>https://example.org/tags/electron/</link>
+    <description>Recent content in Electron on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jul 2023 13:37:47 -0400</lastBuildDate>
+    <atom:link href="https://example.org/tags/electron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chatgpt Sqlite</title>
+      <link>https://example.org/posts/chatgpt-sqlite/</link>
+      <pubDate>Sat, 22 Jul 2023 13:37:47 -0400</pubDate>
+      <guid>https://example.org/posts/chatgpt-sqlite/</guid>
+      <description>A Todo app created with Sqlite and Electron</description>
+    </item>
+  </channel>
+</rss>

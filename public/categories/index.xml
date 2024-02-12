@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on My New Hugo Site</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2024 11:12:44 -0500</lastBuildDate>
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropology</title>
+      <link>https://example.org/categories/anthropology/</link>
+      <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
+      <guid>https://example.org/categories/anthropology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI LLM&#39;s</title>
+      <link>https://example.org/categories/ai-llms/</link>
+      <pubDate>Sat, 02 Dec 2023 14:39:26 -0500</pubDate>
+      <guid>https://example.org/categories/ai-llms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming Languages</title>
+      <link>https://example.org/categories/programming-languages/</link>
+      <pubDate>Sat, 22 Jul 2023 13:37:47 -0400</pubDate>
+      <guid>https://example.org/categories/programming-languages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://example.org/categories/personal/</link>
+      <pubDate>Sat, 25 Feb 2023 16:29:07 -0500</pubDate>
+      <guid>https://example.org/categories/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://example.org/categories/web-development/</link>
+      <pubDate>Mon, 20 Feb 2023 08:31:47 -0500</pubDate>
+      <guid>https://example.org/categories/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brief History</title>
+      <link>https://example.org/categories/brief-history/</link>
+      <pubDate>Fri, 17 Feb 2023 11:26:30 -0500</pubDate>
+      <guid>https://example.org/categories/brief-history/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
