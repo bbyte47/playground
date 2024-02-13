@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tree on My New Hugo Site</title>
-    <link>https://example.org/tags/tree/</link>
+    <link>https://rideforsoul.com/tags/tree/</link>
     <description>Recent content in tree on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Feb 2023 16:29:07 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/tree/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rideforsoul.com/tags/tree/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ice Storm After</title>
-      <link>https://example.org/posts/icestorm_after/</link>
+      <link>https://rideforsoul.com/posts/icestorm_after/</link>
       <pubDate>Sat, 25 Feb 2023 16:29:07 -0500</pubDate>
-      <guid>https://example.org/posts/icestorm_after/</guid>
+      <guid>https://rideforsoul.com/posts/icestorm_after/</guid>
       <description>Two days after the big ice storm</description>
     </item>
     <item>
       <title>Ice Storm</title>
-      <link>https://example.org/posts/icestorm/</link>
+      <link>https://rideforsoul.com/posts/icestorm/</link>
       <pubDate>Sat, 25 Feb 2023 10:34:29 -0500</pubDate>
-      <guid>https://example.org/posts/icestorm/</guid>
+      <guid>https://rideforsoul.com/posts/icestorm/</guid>
       <description>Ice storm tht caused sifnificant damage</description>
     </item>
   </channel>

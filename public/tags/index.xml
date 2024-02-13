@@ -2,234 +2,234 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
+    <link>https://rideforsoul.com/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Feb 2024 11:12:44 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rideforsoul.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cave</title>
-      <link>https://example.org/tags/cave/</link>
+      <link>https://rideforsoul.com/tags/cave/</link>
       <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
-      <guid>https://example.org/tags/cave/</guid>
+      <guid>https://rideforsoul.com/tags/cave/</guid>
       <description></description>
     </item>
     <item>
       <title>Family</title>
-      <link>https://example.org/tags/family/</link>
+      <link>https://rideforsoul.com/tags/family/</link>
       <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
-      <guid>https://example.org/tags/family/</guid>
+      <guid>https://rideforsoul.com/tags/family/</guid>
       <description></description>
     </item>
     <item>
       <title>Hominoidea</title>
-      <link>https://example.org/tags/hominoidea/</link>
+      <link>https://rideforsoul.com/tags/hominoidea/</link>
       <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
-      <guid>https://example.org/tags/hominoidea/</guid>
+      <guid>https://rideforsoul.com/tags/hominoidea/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://example.org/tags/ai/</link>
+      <link>https://rideforsoul.com/tags/ai/</link>
       <pubDate>Sat, 02 Dec 2023 14:39:26 -0500</pubDate>
-      <guid>https://example.org/tags/ai/</guid>
+      <guid>https://rideforsoul.com/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>DALLE</title>
-      <link>https://example.org/tags/dalle/</link>
+      <link>https://rideforsoul.com/tags/dalle/</link>
       <pubDate>Sat, 02 Dec 2023 14:39:26 -0500</pubDate>
-      <guid>https://example.org/tags/dalle/</guid>
+      <guid>https://rideforsoul.com/tags/dalle/</guid>
       <description></description>
     </item>
     <item>
       <title>Stability</title>
-      <link>https://example.org/tags/stability/</link>
+      <link>https://rideforsoul.com/tags/stability/</link>
       <pubDate>Sat, 02 Dec 2023 14:39:26 -0500</pubDate>
-      <guid>https://example.org/tags/stability/</guid>
+      <guid>https://rideforsoul.com/tags/stability/</guid>
       <description></description>
     </item>
     <item>
       <title>Chat</title>
-      <link>https://example.org/tags/chat/</link>
+      <link>https://rideforsoul.com/tags/chat/</link>
       <pubDate>Sat, 22 Jul 2023 13:37:47 -0400</pubDate>
-      <guid>https://example.org/tags/chat/</guid>
+      <guid>https://rideforsoul.com/tags/chat/</guid>
       <description></description>
     </item>
     <item>
       <title>Electron</title>
-      <link>https://example.org/tags/electron/</link>
+      <link>https://rideforsoul.com/tags/electron/</link>
       <pubDate>Sat, 22 Jul 2023 13:37:47 -0400</pubDate>
-      <guid>https://example.org/tags/electron/</guid>
+      <guid>https://rideforsoul.com/tags/electron/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenAI</title>
-      <link>https://example.org/tags/openai/</link>
+      <link>https://rideforsoul.com/tags/openai/</link>
       <pubDate>Sat, 22 Jul 2023 13:37:47 -0400</pubDate>
-      <guid>https://example.org/tags/openai/</guid>
+      <guid>https://rideforsoul.com/tags/openai/</guid>
       <description></description>
     </item>
     <item>
       <title>Sqlite</title>
-      <link>https://example.org/tags/sqlite/</link>
+      <link>https://rideforsoul.com/tags/sqlite/</link>
       <pubDate>Sat, 22 Jul 2023 13:37:47 -0400</pubDate>
-      <guid>https://example.org/tags/sqlite/</guid>
+      <guid>https://rideforsoul.com/tags/sqlite/</guid>
       <description></description>
     </item>
     <item>
       <title>Content</title>
-      <link>https://example.org/tags/content/</link>
+      <link>https://rideforsoul.com/tags/content/</link>
       <pubDate>Sat, 01 Apr 2023 13:49:43 -0400</pubDate>
-      <guid>https://example.org/tags/content/</guid>
+      <guid>https://rideforsoul.com/tags/content/</guid>
       <description></description>
     </item>
     <item>
       <title>One</title>
-      <link>https://example.org/tags/one/</link>
+      <link>https://rideforsoul.com/tags/one/</link>
       <pubDate>Tue, 28 Feb 2023 09:05:59 -0500</pubDate>
-      <guid>https://example.org/tags/one/</guid>
+      <guid>https://rideforsoul.com/tags/one/</guid>
       <description></description>
     </item>
     <item>
       <title>power</title>
-      <link>https://example.org/tags/power/</link>
+      <link>https://rideforsoul.com/tags/power/</link>
       <pubDate>Sat, 25 Feb 2023 16:29:07 -0500</pubDate>
-      <guid>https://example.org/tags/power/</guid>
+      <guid>https://rideforsoul.com/tags/power/</guid>
       <description></description>
     </item>
     <item>
       <title>storm</title>
-      <link>https://example.org/tags/storm/</link>
+      <link>https://rideforsoul.com/tags/storm/</link>
       <pubDate>Sat, 25 Feb 2023 16:29:07 -0500</pubDate>
-      <guid>https://example.org/tags/storm/</guid>
+      <guid>https://rideforsoul.com/tags/storm/</guid>
       <description></description>
     </item>
     <item>
       <title>tree</title>
-      <link>https://example.org/tags/tree/</link>
+      <link>https://rideforsoul.com/tags/tree/</link>
       <pubDate>Sat, 25 Feb 2023 16:29:07 -0500</pubDate>
-      <guid>https://example.org/tags/tree/</guid>
+      <guid>https://rideforsoul.com/tags/tree/</guid>
       <description></description>
     </item>
     <item>
       <title>Install</title>
-      <link>https://example.org/tags/install/</link>
+      <link>https://rideforsoul.com/tags/install/</link>
       <pubDate>Mon, 20 Feb 2023 08:31:47 -0500</pubDate>
-      <guid>https://example.org/tags/install/</guid>
+      <guid>https://rideforsoul.com/tags/install/</guid>
       <description></description>
     </item>
     <item>
       <title>Netxcloud</title>
-      <link>https://example.org/tags/netxcloud/</link>
+      <link>https://rideforsoul.com/tags/netxcloud/</link>
       <pubDate>Mon, 20 Feb 2023 08:31:47 -0500</pubDate>
-      <guid>https://example.org/tags/netxcloud/</guid>
+      <guid>https://rideforsoul.com/tags/netxcloud/</guid>
       <description></description>
     </item>
     <item>
       <title>VirtualBox</title>
-      <link>https://example.org/tags/virtualbox/</link>
+      <link>https://rideforsoul.com/tags/virtualbox/</link>
       <pubDate>Mon, 20 Feb 2023 08:31:47 -0500</pubDate>
-      <guid>https://example.org/tags/virtualbox/</guid>
+      <guid>https://rideforsoul.com/tags/virtualbox/</guid>
       <description></description>
     </item>
     <item>
       <title>Hominoidia</title>
-      <link>https://example.org/tags/hominoidia/</link>
+      <link>https://rideforsoul.com/tags/hominoidia/</link>
       <pubDate>Fri, 10 Feb 2023 09:33:21 -0500</pubDate>
-      <guid>https://example.org/tags/hominoidia/</guid>
+      <guid>https://rideforsoul.com/tags/hominoidia/</guid>
       <description></description>
     </item>
     <item>
       <title>Intro</title>
-      <link>https://example.org/tags/intro/</link>
+      <link>https://rideforsoul.com/tags/intro/</link>
       <pubDate>Fri, 10 Feb 2023 09:33:21 -0500</pubDate>
-      <guid>https://example.org/tags/intro/</guid>
+      <guid>https://rideforsoul.com/tags/intro/</guid>
       <description></description>
     </item>
     <item>
       <title>Sapiens</title>
-      <link>https://example.org/tags/sapiens/</link>
+      <link>https://rideforsoul.com/tags/sapiens/</link>
       <pubDate>Fri, 10 Feb 2023 09:33:21 -0500</pubDate>
-      <guid>https://example.org/tags/sapiens/</guid>
+      <guid>https://rideforsoul.com/tags/sapiens/</guid>
       <description></description>
     </item>
     <item>
       <title>Dog</title>
-      <link>https://example.org/tags/dog/</link>
+      <link>https://rideforsoul.com/tags/dog/</link>
       <pubDate>Thu, 09 Feb 2023 08:36:50 -0500</pubDate>
-      <guid>https://example.org/tags/dog/</guid>
+      <guid>https://rideforsoul.com/tags/dog/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
-      <link>https://example.org/tags/general/</link>
+      <link>https://rideforsoul.com/tags/general/</link>
       <pubDate>Thu, 09 Feb 2023 08:36:50 -0500</pubDate>
-      <guid>https://example.org/tags/general/</guid>
+      <guid>https://rideforsoul.com/tags/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Livecode</title>
-      <link>https://example.org/tags/livecode/</link>
+      <link>https://rideforsoul.com/tags/livecode/</link>
       <pubDate>Wed, 24 Nov 2021 11:33:20 -0500</pubDate>
-      <guid>https://example.org/tags/livecode/</guid>
+      <guid>https://rideforsoul.com/tags/livecode/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>https://example.org/tags/server/</link>
+      <link>https://rideforsoul.com/tags/server/</link>
       <pubDate>Wed, 24 Nov 2021 11:33:20 -0500</pubDate>
-      <guid>https://example.org/tags/server/</guid>
+      <guid>https://rideforsoul.com/tags/server/</guid>
       <description></description>
     </item>
     <item>
       <title>App</title>
-      <link>https://example.org/tags/app/</link>
+      <link>https://rideforsoul.com/tags/app/</link>
       <pubDate>Sun, 16 May 2021 19:33:53 +0300</pubDate>
-      <guid>https://example.org/tags/app/</guid>
+      <guid>https://rideforsoul.com/tags/app/</guid>
       <description></description>
     </item>
     <item>
       <title>Hosts</title>
-      <link>https://example.org/tags/hosts/</link>
+      <link>https://rideforsoul.com/tags/hosts/</link>
       <pubDate>Sun, 16 May 2021 19:33:53 +0300</pubDate>
-      <guid>https://example.org/tags/hosts/</guid>
+      <guid>https://rideforsoul.com/tags/hosts/</guid>
       <description></description>
     </item>
     <item>
       <title>Framework</title>
-      <link>https://example.org/tags/framework/</link>
+      <link>https://rideforsoul.com/tags/framework/</link>
       <pubDate>Wed, 31 Mar 2021 19:33:53 +0300</pubDate>
-      <guid>https://example.org/tags/framework/</guid>
+      <guid>https://rideforsoul.com/tags/framework/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://example.org/tags/hugo/</link>
+      <link>https://rideforsoul.com/tags/hugo/</link>
       <pubDate>Wed, 31 Mar 2021 19:33:53 +0300</pubDate>
-      <guid>https://example.org/tags/hugo/</guid>
+      <guid>https://rideforsoul.com/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Update</title>
-      <link>https://example.org/tags/update/</link>
+      <link>https://rideforsoul.com/tags/update/</link>
       <pubDate>Wed, 31 Mar 2021 19:33:53 +0300</pubDate>
-      <guid>https://example.org/tags/update/</guid>
+      <guid>https://rideforsoul.com/tags/update/</guid>
       <description></description>
     </item>
     <item>
       <title>Language</title>
-      <link>https://example.org/tags/language/</link>
+      <link>https://rideforsoul.com/tags/language/</link>
       <pubDate>Wed, 03 Mar 2021 14:29:26 -0500</pubDate>
-      <guid>https://example.org/tags/language/</guid>
+      <guid>https://rideforsoul.com/tags/language/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://example.org/tags/programming/</link>
+      <link>https://rideforsoul.com/tags/programming/</link>
       <pubDate>Wed, 03 Mar 2021 14:29:26 -0500</pubDate>
-      <guid>https://example.org/tags/programming/</guid>
+      <guid>https://rideforsoul.com/tags/programming/</guid>
       <description></description>
     </item>
   </channel>

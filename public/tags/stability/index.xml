@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stability on My New Hugo Site</title>
-    <link>https://example.org/tags/stability/</link>
+    <link>https://rideforsoul.com/tags/stability/</link>
     <description>Recent content in Stability on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Dec 2023 14:39:26 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/stability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rideforsoul.com/tags/stability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Image Generator</title>
-      <link>https://example.org/posts/image_generator/</link>
+      <link>https://rideforsoul.com/posts/image_generator/</link>
       <pubDate>Sat, 02 Dec 2023 14:39:26 -0500</pubDate>
-      <guid>https://example.org/posts/image_generator/</guid>
+      <guid>https://rideforsoul.com/posts/image_generator/</guid>
       <description>A brief discussion on image generators</description>
     </item>
   </channel>

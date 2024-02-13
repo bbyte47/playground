@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hominoidea on My New Hugo Site</title>
-    <link>https://example.org/tags/hominoidea/</link>
+    <link>https://rideforsoul.com/tags/hominoidea/</link>
     <description>Recent content in Hominoidea on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Feb 2024 11:12:44 -0500</lastBuildDate>
-    <atom:link href="https://example.org/tags/hominoidea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rideforsoul.com/tags/hominoidea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devetashka</title>
-      <link>https://example.org/posts/devetashka/</link>
+      <link>https://rideforsoul.com/posts/devetashka/</link>
       <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
-      <guid>https://example.org/posts/devetashka/</guid>
+      <guid>https://rideforsoul.com/posts/devetashka/</guid>
       <description>Cave located in Bulgaria that was inhabited by humans 70,000 years ago</description>
     </item>
     <item>
       <title>Human Family</title>
-      <link>https://example.org/posts/human_family/</link>
+      <link>https://rideforsoul.com/posts/human_family/</link>
       <pubDate>Tue, 14 Feb 2023 10:52:36 -0500</pubDate>
-      <guid>https://example.org/posts/human_family/</guid>
+      <guid>https://rideforsoul.com/posts/human_family/</guid>
       <description>The human family tree</description>
     </item>
     <item>
       <title>Brief History Introduction</title>
-      <link>https://example.org/posts/brief_history/</link>
+      <link>https://rideforsoul.com/posts/brief_history/</link>
       <pubDate>Sat, 11 Feb 2023 11:09:22 -0500</pubDate>
-      <guid>https://example.org/posts/brief_history/</guid>
+      <guid>https://rideforsoul.com/posts/brief_history/</guid>
       <description>Human Family</description>
     </item>
   </channel>

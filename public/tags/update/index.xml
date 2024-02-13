@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Update on My New Hugo Site</title>
-    <link>https://example.org/tags/update/</link>
+    <link>https://rideforsoul.com/tags/update/</link>
     <description>Recent content in Update on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Mar 2021 19:33:53 +0300</lastBuildDate>
-    <atom:link href="https://example.org/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rideforsoul.com/tags/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Site Update</title>
-      <link>https://example.org/posts/site_post/</link>
+      <link>https://rideforsoul.com/posts/site_post/</link>
       <pubDate>Wed, 31 Mar 2021 19:33:53 +0300</pubDate>
-      <guid>https://example.org/posts/site_post/</guid>
+      <guid>https://rideforsoul.com/posts/site_post/</guid>
       <description>Add a post</description>
     </item>
   </channel>
