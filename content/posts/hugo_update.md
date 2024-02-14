@@ -28,3 +28,5 @@ After some Googling found a YouTube clip that Luke Smith had produced giving a t
 
 After following this video and setting up a site locally, moved it to my hosted service. At that time it was completely bare bones. Did some more searching and was able to gain some new ideas which will be discussed in another post. This is a picture of the site after Luke's setup.
 ![JAMStack](/image/hugo-luke1.png)
+
+The post that goes more about this [new site](/posts/new_site/).
