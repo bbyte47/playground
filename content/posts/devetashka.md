@@ -10,8 +10,6 @@ tags:
   - Family
 description: 'Cave located in Bulgaria that was inhabited by humans 70,000 years ago'
 post: 'devetashka'
-cover:
-  image: image/cave.png
 ---
 
 ## Devetashka Cave: A Glimpse into Prehistoric Life

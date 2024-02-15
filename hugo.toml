@@ -19,4 +19,9 @@ theme = 'PaperMod'
     url = "/contact"    
     weight = 3
 
+  [[menu.main]]
+    name = "Archives"
+    url = "/archives"    
+    weight = 4  
+
   

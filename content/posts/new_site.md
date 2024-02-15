@@ -9,8 +9,6 @@ tags:
   - Framework
 description: 'Hugo static site generator updated'
 post: 'new_site'
-cover:
-  image: image/butterflie2.png
 ---
 
 **New Site** picture has been generated using Stable Diffusion. This story continues from [Hugo Update](/posts/hugo_update/) and you might want to read that story before continuing with this story. While Luke's site was functional; the aesthetics left something less than pleasing. The next step was coming across a YouTube clip from Future Web Design
