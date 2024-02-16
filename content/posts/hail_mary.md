@@ -23,7 +23,7 @@ Welcome, bookworms and science enthusiasts! Today, we embark on a thrilling jour
 
 ## Synopsis:
 
-"Hail Mary" follows the story of Dr. Grace Delaney, a brilliant scientist who finds herself on a mission to save humanity from an impending catastrophe. As Earth faces an imminent collision with a massive asteroid, Grace is chosen to lead a team of astronauts on a daring space mission. Their objective: to intercept the asteroid and divert its course, preventing a catastrophic impact.
+"Hail Mary" follows the story of Dr. Grace Delaney, a brilliant scientist who finds himself on a mission to save humanity from an impending catastrophe. As Earth faces an imminent collision with a massive asteroid, Grace is chosen to lead a team of astronauts on a daring space mission. Their objective: to intercept the asteroid and divert its course, preventing a catastrophic impact.
 
 ## The Science Behind the Story:
 
