@@ -19,7 +19,7 @@ Took a shortcut today and asked ChatGPT to produce this article about the book H
 
 ## Introduction:
 
-Welcome, bookworms and science enthusiasts! Today, we embark on a thrilling journey through the pages of "Hail Mary" – a captivating novel that seamlessly blends science fiction with heart-pounding suspense. Written by [Author's Name], this book takes readers on an exhilarating adventure, while also delving into thought-provoking scientific concepts. Join us as we explore the gripping storyline and the fascinating scientific elements that make "Hail Mary" a must-read for fans of both genres.
+Welcome, bookworms and science enthusiasts! Today, we embark on a thrilling journey through the pages of "Hail Mary" – a captivating novel that seamlessly blends science fiction with heart-pounding suspense. Written by Andy Weir, this book takes readers on an exhilarating adventure, while also delving into thought-provoking scientific concepts. Join us as we explore the gripping storyline and the fascinating scientific elements that make "Hail Mary" a must-read for fans of both genres.
 
 ## Synopsis:
 
