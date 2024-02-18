@@ -10,7 +10,7 @@ tags:
 description: 'Hugo static site generator updated'
 post: 'hugo_update'
 cover:
-  image: image/logo3.png
+  image: image/logo.png
 weight: 1
 ---
 
