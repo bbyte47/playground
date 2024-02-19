@@ -1,5 +1,5 @@
 ---
-title: 'Catgories Descriptions'
+title: 'Categories Descriptions'
 date: 2024-02-19T05:50:18-05:00
 draft: false
 tags:
