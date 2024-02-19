@@ -5,8 +5,8 @@ draft: false
 categories:
   - Anthropology
 tags:
-  - One
-  - Family
+  - Species
+  - Homo
 description: 'The different branches of Homo who were alive 100,000 years ago.'
 post: 'ourcousins'
 ---
