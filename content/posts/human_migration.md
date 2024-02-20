@@ -1,6 +1,6 @@
 ---
 title: 'Human Migration Lecture 4'
-date: 2023-02-20T09:53:58-05:00
+date: 2024-02-20T09:53:58-05:00
 draft: false
 categories:
   - Brief History
