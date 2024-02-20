@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Nextcloud | My New Hugo Site</title>
+<meta name="keywords" content="Netxcloud, VirtualBox, Install">
+<meta name="description" content="Installing Ubuntu-Server 22.04, a web server, and Nextcloud on a VirtualBox machine.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/posts/nextcloud/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.84ea76b67320cb80bcad760b40723ad8b427b427677748ebfd5822bd88e8f114.css" integrity="sha256-hOp2tnMgy4C8rXYLQHI62LQntCdnd0jr/VgivYjo8RQ=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/nextcloud/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="My New Hugo Site (Alt + H)">My New Hugo Site</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+                <ul class="lang-switch"><li>|</li>
+                </ul>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/categories" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/contact" title="Contact">
+                    <span>Contact</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/archives" title="Archives">
+                    <span>Archives</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Nextcloud
+    </h1>
+    <div class="post-description">
+      Installing Ubuntu-Server 22.04, a web server, and Nextcloud on a VirtualBox machine.
+    </div>
+    <div class="post-meta"><span title='2023-02-20 08:31:47 -0500 EST'>February 20, 2023</span>
+
+</div>
+  </header> 
+  <div class="post-content"><p><strong>Taking a break</strong> from the Human Family and wanted to talk about installing Nextcloud on an Ubuntu-Server. Got the idea from a feed on Google News where this woman did just this. Her reason for doing this was being concerned about security as she is an author and didn&rsquo;t want her work to become plagiarized. With the advent of AIchat scrapping information from the internet and then presenting it to a user she was concerned that storing her information on any cloud device could be vulnerable. Don&rsquo;t share her concerns as first am not anywhere close to her abilities and secondly don&rsquo;t feel like private cloud repositories are open to that type of scrapping. But she went into detail about creating a cloud storage system on her private network at home.</p>
+<p>As I didn&rsquo;t read all her articles on her installation and not sure that she selected putting the cloud app on a separate computer or ended up using a Virtual machine. But she did use Ubuntu-Server for her operating system. Her feelings were that it is an easy install and most people should be able to follow along. Again, didn&rsquo;t read any one of her articles completely and some of them not at all and did not feel that this is something that a non techie would be able to accomplish. In my case am not a super high-tech person but have definitely created numerous web servers on virtual machines and while most of my installs are Ubuntu Desktop have worked with numerous servers installs. Even though I knew that the cloud app would work on the desktop OS decided that it would be fun working with the server OS. And her suggestion of using a virtual machine was right in my wheelhouse as having so many benefits the first being that I can always delete it.</p>
+<p>So, after downloading the iso server file created a new virtual machine only changing the hard drive storage to 30GB, memory to 4096MB, and 2 processors. Then I just installed the OS using the default setup suggestions and only added ssh service. Using her suggestion for installing Nextcloud followed their instructions for setting up the web server which is extremely similar to what one would do if installing WordPress or Laravel as all 3 are written in PHP. Having worked with both felt comfortable but believe that for someone with no experience in this area it could be daunting. If I had tested out my new web server at this time, would have recognized the problem that ran into once Nextcloud was installed. Keep in mind that my local development environments use the desktop OS and simply opening up a browser and typing in localhost brings up the server test page. On a server that is not the case as there is no browser and unless one installs some GUI app there is only the command line.</p>
+<p>After Apache2, PHP, and MariaDB were installed followed Nextcloud instructions for creating a database user and a database for Nextcloud which is the same for WordPress or Laravel; really any of the PHP frameworks that I have worked with. Then on my host machine downloaded the Nextcloud zip file and relearned how to check out the validity using sha256 finding it to be valid. The using ssh transfered the zip file to my host machine and unzipped the file which created a Nextcloud folder and moved that to /var/www. At this point the instructions stopped and was surprised that there wasn&rsquo;t any mention of a config file. There is a config folder in the Nextcloud folder and a sample file. Can only guess that it can be used to modify the install but not required for default usage. Ended up leaving that part alone.</p>
+<p>This is where it got troublesome for me as I now had to learn how to access the website from the host machine. Setting up the web server followed the instructions for setting up a virtual host and gave the host a name of guestserver.com. But now I needed to create a static IP. In the VirtualBox settings created a 2nd adapter as a Host Only. Then back in the guest server had to add that adapter. Most of the google searches that I found was for /etc/network/interface, but Ubuntu has changed that to /etc/netplan/ and there is a file in there that can be modified. Took me some time to come up with something that worked, and it was almost magic the final result but it got the job done. Did have to go back to my host machine (Windows) and add the static ip and guestserver.com to my host’s file.</p>
+<p>At this point was able to open my browser on the Windows box to guestserver.com and complete the setup, which was adding a user, password, database-user, database-password, database-name, and host which I left as localhost. And after a few minutes the Nextcloud was running. Figured out how to change the weather from centigrade to Fahrenheit. After all this while pleased could not see why she went to all this trouble keeping her writings in this app as opposed to some type of external hard drive. She was keeping the cloud local to her network which does ensure security issues but hardware failures or catastrophes like a fire could shut her down completely. Whereas rotating hard drives stored offsite in a lockbox would sure offer much more protection and the cost is minimal.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/netxcloud/">Netxcloud</a></li>
+      <li><a href="http://localhost:1313/tags/virtualbox/">VirtualBox</a></li>
+      <li><a href="http://localhost:1313/tags/install/">Install</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2024 <a href="http://localhost:1313/">My New Hugo Site</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

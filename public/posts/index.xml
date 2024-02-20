@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 09:53:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Update</title>
+      <link>http://localhost:1313/posts/hugo_update/</link>
+      <pubDate>Tue, 13 Feb 2024 05:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/hugo_update/</guid>
+      <description>Hugo static site generator updated</description>
+    </item>
+    <item>
+      <title>Categories Descriptions</title>
+      <link>http://localhost:1313/posts/category_description/</link>
+      <pubDate>Mon, 19 Feb 2024 05:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/category_description/</guid>
+      <description>Descriptions of the Categories</description>
+    </item>
+    <item>
+      <title>Human Migration Lecture 4</title>
+      <link>http://localhost:1313/posts/human_migration/</link>
+      <pubDate>Tue, 20 Feb 2024 09:53:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/human_migration/</guid>
+      <description>Human migration and meeting other species</description>
+    </item>
+    <item>
+      <title>Collectors</title>
+      <link>http://localhost:1313/posts/collectors/</link>
+      <pubDate>Sat, 17 Feb 2024 05:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/collectors/</guid>
+      <description>Espionage, conspiracy, and high-stakes drama</description>
+    </item>
+    <item>
+      <title>Shogun</title>
+      <link>http://localhost:1313/posts/shogun/</link>
+      <pubDate>Sat, 17 Feb 2024 05:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/shogun/</guid>
+      <description>Shipwrecked in feudal Japan</description>
+    </item>
+    <item>
+      <title>Hail Mary</title>
+      <link>http://localhost:1313/posts/hail_mary/</link>
+      <pubDate>Fri, 16 Feb 2024 05:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/hail_mary/</guid>
+      <description>Intersteller travel to save earth</description>
+    </item>
+    <item>
+      <title>New Site</title>
+      <link>http://localhost:1313/posts/new_site/</link>
+      <pubDate>Wed, 14 Feb 2024 05:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/new_site/</guid>
+      <description>Hugo static site generator updated</description>
+    </item>
+    <item>
+      <title>Devetashka</title>
+      <link>http://localhost:1313/posts/devetashka/</link>
+      <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/devetashka/</guid>
+      <description>Cave located in Bulgaria that was inhabited by humans 70,000 years ago</description>
+    </item>
+    <item>
+      <title>Image Generator</title>
+      <link>http://localhost:1313/posts/image_generator/</link>
+      <pubDate>Sat, 02 Dec 2023 14:39:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/image_generator/</guid>
+      <description>A brief discussion on image generators</description>
+    </item>
+    <item>
+      <title>Chatgpt Sqlite</title>
+      <link>http://localhost:1313/posts/chatgpt-sqlite/</link>
+      <pubDate>Sat, 22 Jul 2023 13:37:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chatgpt-sqlite/</guid>
+      <description>A Todo app created with Sqlite and Electron</description>
+    </item>
+    <item>
+      <title>Chatgpt</title>
+      <link>http://localhost:1313/posts/chatgpt/</link>
+      <pubDate>Sat, 01 Apr 2023 13:49:43 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chatgpt/</guid>
+      <description>More info on ChatGPT</description>
+    </item>
+    <item>
+      <title>OpenAI</title>
+      <link>http://localhost:1313/posts/openai/</link>
+      <pubDate>Fri, 10 Mar 2023 11:18:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/openai/</guid>
+      <description>Discussion on OpenAI and a Udemy course</description>
+    </item>
+    <item>
+      <title>Our Cousins</title>
+      <link>http://localhost:1313/posts/ourcousins/</link>
+      <pubDate>Tue, 28 Feb 2023 09:05:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/ourcousins/</guid>
+      <description>The different branches of Homo who were alive 100,000 years ago.</description>
+    </item>
+    <item>
+      <title>Ice Storm After</title>
+      <link>http://localhost:1313/posts/icestorm_after/</link>
+      <pubDate>Sat, 25 Feb 2023 16:29:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/icestorm_after/</guid>
+      <description>Two days after the big ice storm</description>
+    </item>
+    <item>
+      <title>Ice Storm</title>
+      <link>http://localhost:1313/posts/icestorm/</link>
+      <pubDate>Sat, 25 Feb 2023 10:34:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/icestorm/</guid>
+      <description>Ice storm tht caused sifnificant damage</description>
+    </item>
+    <item>
+      <title>Nextcloud</title>
+      <link>http://localhost:1313/posts/nextcloud/</link>
+      <pubDate>Mon, 20 Feb 2023 08:31:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/nextcloud/</guid>
+      <description>Installing Ubuntu-Server 22.04, a web server, and Nextcloud on a VirtualBox machine.</description>
+    </item>
+    <item>
+      <title>Humans and Fire Lecture 3</title>
+      <link>http://localhost:1313/posts/human_fire/</link>
+      <pubDate>Fri, 17 Feb 2023 11:26:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/human_fire/</guid>
+      <description>How controlling fire helped us develop</description>
+    </item>
+    <item>
+      <title>Human Characteristic Lecture 2</title>
+      <link>http://localhost:1313/posts/human_characteristic/</link>
+      <pubDate>Wed, 15 Feb 2023 09:53:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/human_characteristic/</guid>
+      <description>Human Characteristic</description>
+    </item>
+    <item>
+      <title>Human Family Lecture 1</title>
+      <link>http://localhost:1313/posts/human_family/</link>
+      <pubDate>Tue, 14 Feb 2023 10:52:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/human_family/</guid>
+      <description>The human family tree</description>
+    </item>
+    <item>
+      <title>Brief History Introduction</title>
+      <link>http://localhost:1313/posts/brief_history/</link>
+      <pubDate>Sat, 11 Feb 2023 11:09:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/brief_history/</guid>
+      <description>Human Family</description>
+    </item>
+    <item>
+      <title>Sapiens Introduction</title>
+      <link>http://localhost:1313/posts/sapiens_intro/</link>
+      <pubDate>Fri, 10 Feb 2023 09:33:21 -0500</pubDate>
+      <guid>http://localhost:1313/posts/sapiens_intro/</guid>
+      <description>A Brief History Of Humankind</description>
+    </item>
+    <item>
+      <title>Andi</title>
+      <link>http://localhost:1313/posts/andi/</link>
+      <pubDate>Thu, 09 Feb 2023 08:36:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/andi/</guid>
+      <description>Woman and dog</description>
+    </item>
+    <item>
+      <title>ChatGPT</title>
+      <link>http://localhost:1313/posts/chat/</link>
+      <pubDate>Sun, 05 Feb 2023 07:42:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/chat/</guid>
+      <description>an AI language model developed by OpenAI</description>
+    </item>
+    <item>
+      <title>Livecode Server</title>
+      <link>http://localhost:1313/posts/livecode_server/</link>
+      <pubDate>Wed, 24 Nov 2021 11:33:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/livecode_server/</guid>
+      <description>Livecode server and install on Ubuntu 20.04 with Apache 2.4</description>
+    </item>
+    <item>
+      <title>DigitalOcean App</title>
+      <link>http://localhost:1313/posts/digital_ocean/</link>
+      <pubDate>Sun, 16 May 2021 19:33:53 +0300</pubDate>
+      <guid>http://localhost:1313/posts/digital_ocean/</guid>
+      <description>Using GitHub to push update</description>
+    </item>
+    <item>
+      <title>Site Update</title>
+      <link>http://localhost:1313/posts/site_post/</link>
+      <pubDate>Wed, 31 Mar 2021 19:33:53 +0300</pubDate>
+      <guid>http://localhost:1313/posts/site_post/</guid>
+      <description>Add a post</description>
+    </item>
+    <item>
+      <title>Livecode Intro</title>
+      <link>http://localhost:1313/posts/livecode_intro/</link>
+      <pubDate>Wed, 03 Mar 2021 14:29:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/livecode_intro/</guid>
+      <description>Intro on Livecode language</description>
+    </item>
+    <item>
+      <title>Starter Site</title>
+      <link>http://localhost:1313/posts/first_site/</link>
+      <pubDate>Fri, 26 Feb 2021 19:33:53 +0300</pubDate>
+      <guid>http://localhost:1313/posts/first_site/</guid>
+      <description>Hugo starter site demo</description>
+    </item>
+    <item>
+      <title>Site Introduction</title>
+      <link>http://localhost:1313/posts/first_post/</link>
+      <pubDate>Fri, 12 Feb 2021 12:44:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first_post/</guid>
+      <description>General introduction of site.</description>
+    </item>
+    <item>
+      <title>Hugo Intro</title>
+      <link>http://localhost:1313/posts/hugo_intro/</link>
+      <pubDate>Fri, 29 Mar 2019 19:33:53 +0300</pubDate>
+      <guid>http://localhost:1313/posts/hugo_intro/</guid>
+      <description>Hugo static site generator</description>
+    </item>
+  </channel>
+</rss>

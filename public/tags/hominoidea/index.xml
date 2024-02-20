@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hominoidea on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/hominoidea/</link>
+    <description>Recent content in Hominoidea on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 09:53:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hominoidea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Migration Lecture 4</title>
+      <link>http://localhost:1313/posts/human_migration/</link>
+      <pubDate>Tue, 20 Feb 2024 09:53:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/human_migration/</guid>
+      <description>Human migration and meeting other species</description>
+    </item>
+    <item>
+      <title>Devetashka</title>
+      <link>http://localhost:1313/posts/devetashka/</link>
+      <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/devetashka/</guid>
+      <description>Cave located in Bulgaria that was inhabited by humans 70,000 years ago</description>
+    </item>
+    <item>
+      <title>Humans and Fire Lecture 3</title>
+      <link>http://localhost:1313/posts/human_fire/</link>
+      <pubDate>Fri, 17 Feb 2023 11:26:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/human_fire/</guid>
+      <description>How controlling fire helped us develop</description>
+    </item>
+    <item>
+      <title>Human Characteristic Lecture 2</title>
+      <link>http://localhost:1313/posts/human_characteristic/</link>
+      <pubDate>Wed, 15 Feb 2023 09:53:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/human_characteristic/</guid>
+      <description>Human Characteristic</description>
+    </item>
+    <item>
+      <title>Human Family Lecture 1</title>
+      <link>http://localhost:1313/posts/human_family/</link>
+      <pubDate>Tue, 14 Feb 2023 10:52:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/human_family/</guid>
+      <description>The human family tree</description>
+    </item>
+    <item>
+      <title>Brief History Introduction</title>
+      <link>http://localhost:1313/posts/brief_history/</link>
+      <pubDate>Sat, 11 Feb 2023 11:09:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/brief_history/</guid>
+      <description>Human Family</description>
+    </item>
+  </channel>
+</rss>

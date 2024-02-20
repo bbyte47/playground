@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Livecode on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/livecode/</link>
+    <description>Recent content in Livecode on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Nov 2021 11:33:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/livecode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Livecode Server</title>
+      <link>http://localhost:1313/posts/livecode_server/</link>
+      <pubDate>Wed, 24 Nov 2021 11:33:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/livecode_server/</guid>
+      <description>Livecode server and install on Ubuntu 20.04 with Apache 2.4</description>
+    </item>
+    <item>
+      <title>Livecode Intro</title>
+      <link>http://localhost:1313/posts/livecode_intro/</link>
+      <pubDate>Wed, 03 Mar 2021 14:29:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/livecode_intro/</guid>
+      <description>Intro on Livecode language</description>
+    </item>
+  </channel>
+</rss>
