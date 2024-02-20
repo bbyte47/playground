@@ -1,13 +1,12 @@
 ---
-title: 'Human Family'
+title: 'Human Family Lecture 1'
 date: 2023-02-14T10:52:36-05:00
 draft: false
 categories:
   - Brief History
 tags:
   - Hominoidea
-  - One
-  - Family
+  - BH Section 1
 description: 'The human family tree'
 post: 'human_family'
 ---

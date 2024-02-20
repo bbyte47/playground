@@ -3,17 +3,15 @@ title: 'Sapiens Introduction'
 date: 2023-02-10T09:33:21-05:00
 draft: false
 categories:
-  - Brief History
+  - Anthropology
 tags:
   - Sapiens
-  - Intro
-  - One
   - Hominoidia
 description: 'A Brief History Of Humankind'
 post: 'sapiens_intro'
 ---
 
-**A Brief History** is a subject that has always interested me from an early age. Remember being fascinated by a book written by Desmond Morris titled "The Naked App" which was slanted to a more general audience rather than a scientific tome. I then became infatuated by the aquatic ape theory, championed by Elaine Morgan for years that made its way into the scientific mainstream, contends that some of our ancestors dwelled primarily in water. Morgan also cited the elephant, which she once claimed had a hairless ancestor to similar ridicule though that theory has since been accepted. "Every animal that has become naked has been conditioned by water," she said. Carole Cadwalladr of the Guardian noted, "Morgan has been dismissed as a nutcase for years, but both David Attenborough and Daniel Dennett have recently come around." It is interesting that most large populations are either on seashores, lakes, or rivers.
+**Anthropology** is a subject that has always interested me from an early age. Remember being fascinated by a book written by Desmond Morris titled "The Naked App" which was slanted to a more general audience rather than a scientific tome. I then became infatuated by the aquatic ape theory, championed by Elaine Morgan for years that made its way into the scientific mainstream, contends that some of our ancestors dwelled primarily in water. Morgan also cited the elephant, which she once claimed had a hairless ancestor to similar ridicule though that theory has since been accepted. "Every animal that has become naked has been conditioned by water," she said. Carole Cadwalladr of the Guardian noted, "Morgan has been dismissed as a nutcase for years, but both David Attenborough and Daniel Dennett have recently come around." It is interesting that most large populations are either on seashores, lakes, or rivers.
 
 The next influential person in my jouney has been Jared Diamond being introduced to him while visiting my daughter and reading "Guns, Germs, and Steel: The Fates of Human Societies". This was in a more advanced stage in human development preferring his earlier book "The Third Chimpanzee". Below is a chart showing the Hominidae tree:
 

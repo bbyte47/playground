@@ -6,7 +6,7 @@ categories:
   - Brief History
 tags:
   - Hominoidea
-  - One
+  - BH Section 1
 description: 'Human Family'
 post: 'brief_history'
 ---
