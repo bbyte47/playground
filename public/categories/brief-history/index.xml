@@ -6,21 +6,21 @@
     <description>Recent content in Brief History on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Feb 2024 09:53:58 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 11:26:30 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/brief-history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cognitive Revolution Lecture 5</title>
+      <link>http://localhost:1313/posts/cognitive_revolution/</link>
+      <pubDate>Wed, 21 Feb 2024 11:26:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/cognitive_revolution/</guid>
+      <description>What changed us from middle of the pact to the apex predator</description>
+    </item>
     <item>
       <title>Human Migration Lecture 4</title>
       <link>http://localhost:1313/posts/human_migration/</link>
       <pubDate>Tue, 20 Feb 2024 09:53:58 -0500</pubDate>
       <guid>http://localhost:1313/posts/human_migration/</guid>
       <description>Human migration and meeting other species</description>
-    </item>
-    <item>
-      <title>Cognitive Revolution Lecture 5</title>
-      <link>http://localhost:1313/posts/cognitive_revolution/</link>
-      <pubDate>Tue, 21 Feb 2023 11:26:30 -0500</pubDate>
-      <guid>http://localhost:1313/posts/cognitive_revolution/</guid>
-      <description>What changed us from middle of the pact to the apex predator</description>
     </item>
     <item>
       <title>Humans and Fire Lecture 3</title>
