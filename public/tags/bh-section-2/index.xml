@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BH Section 2 on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/bh-section-2/</link>
+    <description>Recent content in BH Section 2 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Feb 2023 11:26:30 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bh-section-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cognitive Revolution Lecture 5</title>
+      <link>http://localhost:1313/posts/cognitive_revolution/</link>
+      <pubDate>Tue, 21 Feb 2023 11:26:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/cognitive_revolution/</guid>
+      <description>What changed us from middle of the pact to the apex predator</description>
+    </item>
+  </channel>
+</rss>
