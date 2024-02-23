@@ -8,7 +8,7 @@ tags:
   - Historical Fiction
   - Thriller
 description: 'Shipwrecked in feudal Japan'
-post: 'hail_mary'
+post: 'shogun'
 ---
 
 ![Sanuari](/image/sam.png)
