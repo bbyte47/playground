@@ -19,7 +19,10 @@ If you're a fan of gripping crime thrillers, get ready to dive into "The Red Roo
 
 ## Who is Atticus Priest?
 
-Atticus Priest is no ordinary investigator. A former Special Forces soldier turned private investigator, his haunted past drives an unwavering quest for justice. Priest is a complex character, battling his own demons while unraveling the darkest of crimes. He's brilliant, relentless, and possesses a unique moral compass that sets him apart.
+- Disgraced former detective: Priest was once a talented detective but was fired from the police force due to unspecified personal issues.
+- Private Investigator: Now working out of a run-down office, Priest takes on cases as a private investigator.
+- Brilliant but difficult: He possesses exceptional deductive skills but his obsessive, egotistical, and restless personality can make him a challenge to work alongside.
+- Complicated history with DCI Mackenzie Jones: Priest had an affair with his former boss, DCI Jones, who is still part of the police force. Their relationship complicates their collaboration.
 
 ## The Red Room: A Case That Cuts Deep
 
