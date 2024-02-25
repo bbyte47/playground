@@ -23,6 +23,8 @@ While bees can communicate the location of flowers and ants cooperate instinctiv
 
 Why is shared fiction so powerful? Imagine the limited social bonds of a chimpanzee troop, constrained by intimate relationships. Now, contrast that with the ability of Homo sapiens to unite thousands, even millions, around a common banner—a religion, a nation, a shared ideology. This ability to cooperate flexibly on a massive scale is fueled by our belief in common myths.
 
+![Bees and Chimp](/image/bees_chimp.jpg)
+
 ## The Dunbar Number: Language and Group Size
 
 Harari introduces the idea that human groups tend to have a natural limit of about 150 members. This is likely because beyond that, the bonds of trust and intimacy that emerge from direct, personal interaction begin to break down.
