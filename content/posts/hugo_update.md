@@ -14,7 +14,7 @@ cover:
 weight: 1
 ---
 
-**Hugo Site Updated** to a much newer version as it has been around 5 years since it was first installed. Actually got the idea for updating when I ran into problems with my old Hugo site where the site was loosing the backround color. I built that site back in the 2020 time frame from a course titled "JAMStack: The Complete Guide" by Ray Viljoen.
+**Hugo Site Updated** to a much newer version as it has been around 5 years since it was first installed. Actually got the idea for updating when I ran into problems with my old Hugo site where the site was losing the backround color. I built that site back in the 2020 time frame from a course titled "JAMStack: The Complete Guide" by Ray Viljoen.
 
 ![JAMStack](/image/jamstack.png)
 
