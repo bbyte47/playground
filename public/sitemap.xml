@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-02-27T11:26:30-05:00</lastmod>
+    <lastmod>2024-02-28T05:50:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hugo_update/</loc>
     <lastmod>2024-02-13T05:50:18-05:00</lastmod>
@@ -14,25 +14,37 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2021-02-18T17:56:12-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/books-read/</loc>
+    <lastmod>2024-02-28T05:50:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-02-28T05:50:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fiction/</loc>
+    <lastmod>2024-02-28T05:50:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-28T05:50:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-28T05:50:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/angel/</loc>
+    <lastmod>2024-02-28T05:50:18-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thriller/</loc>
+    <lastmod>2024-02-28T05:50:18-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/bh-section-2/</loc>
     <lastmod>2024-02-27T11:26:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/brief-history/</loc>
     <lastmod>2024-02-27T11:26:30-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-02-27T11:26:30-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/hominoidea/</loc>
     <lastmod>2024-02-27T11:26:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/imagined/</loc>
-    <lastmod>2024-02-27T11:26:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-02-27T11:26:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-27T11:26:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/ai-llms/</loc>
@@ -62,16 +74,7 @@
     <loc>http://localhost:1313/tags/snow/</loc>
     <lastmod>2024-02-24T11:26:30-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/books-read/</loc>
-    <lastmod>2024-02-23T05:50:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fiction/</loc>
-    <lastmod>2024-02-23T05:50:18-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/red_room/</loc>
-    <lastmod>2024-02-23T05:50:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/thriller/</loc>
     <lastmod>2024-02-23T05:50:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/speech/</loc>
