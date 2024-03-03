@@ -17,6 +17,8 @@ Nestled in the lush landscapes of Bulgaria, the Devetashka cave is a monumental 
 
 ### The Cave Itself
 
+![Cave](/image/cave.png)
+
 Devetashka Cave, with its impressive structure, features several spacious chambers and extensive galleries that stretch over two kilometers in length. The cave's ceiling is punctured by seven large openings, allowing sunlight to illuminate the interior, creating a unique and mystical atmosphere. These natural skylights not only enhance the cave's beauty but also played a crucial role in its habitation by early humans and animals, providing ventilation and light.
 
 The cave's interior is adorned with an array of stalactites and stalagmites, contributing to its awe-inspiring beauty. The presence of numerous riverine formations indicates the cave was carved out over millions of years by water erosion, showcasing the power of natural forces in shaping the world as we know it.

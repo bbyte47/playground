@@ -13,6 +13,8 @@ post: 'denisovan'
 
 ## The Denisovans: Unraveling the Mystery of Our Ancient Cousins
 
+![Denisovan](/image/denisovan.jpg)
+
 For decades, the Neanderthals held the spotlight as the closest extinct relatives to modern humans. But the discovery of the Denisovans has added a fascinating layer to our understanding of human ancestry.
 
 Who Were the Denisovans?

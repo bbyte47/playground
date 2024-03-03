@@ -6,8 +6,15 @@
     <description>Recent content in Hominoidea on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 11:26:30 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 11:12:44 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hominoidea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Denisovan Mystery</title>
+      <link>http://localhost:1313/posts/denisovan/</link>
+      <pubDate>Sat, 02 Mar 2024 11:12:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/denisovan/</guid>
+      <description>New information about one of our ancient cousins</description>
+    </item>
     <item>
       <title>Wow Moment Lecture 8</title>
       <link>http://localhost:1313/posts/fictional/</link>
@@ -56,13 +63,6 @@
       <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
       <guid>http://localhost:1313/posts/devetashka/</guid>
       <description>Cave located in Bulgaria that was inhabited by humans 70,000 years ago</description>
-    </item>
-    <item>
-      <title>Devisovan Mystery</title>
-      <link>http://localhost:1313/posts/denisovan/</link>
-      <pubDate>Mon, 05 Feb 2024 11:12:44 -0500</pubDate>
-      <guid>http://localhost:1313/posts/denisovan/</guid>
-      <description>New information about one of our ancient cousins</description>
     </item>
     <item>
       <title>Humans and Fire Lecture 3</title>
