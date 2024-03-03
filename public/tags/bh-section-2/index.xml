@@ -6,21 +6,21 @@
     <description>Recent content in BH Section 2 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2024 11:26:30 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 11:26:30 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/bh-section-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wow Moment Lecture 8</title>
+      <link>http://localhost:1313/posts/fictional/</link>
+      <pubDate>Fri, 01 Mar 2024 11:26:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/fictional/</guid>
+      <description>Understanding our world in a different light</description>
+    </item>
     <item>
       <title>Imagined Reality Lecture 8</title>
       <link>http://localhost:1313/posts/imagined/</link>
       <pubDate>Tue, 27 Feb 2024 11:26:30 -0500</pubDate>
       <guid>http://localhost:1313/posts/imagined/</guid>
       <description>How our dual reality shapes the world</description>
-    </item>
-    <item>
-      <title>Wow Moment Lecture 8</title>
-      <link>http://localhost:1313/posts/fictional/</link>
-      <pubDate>Tue, 27 Feb 2024 11:26:30 -0500</pubDate>
-      <guid>http://localhost:1313/posts/fictional/</guid>
-      <description>Understanding our world in a different light</description>
     </item>
     <item>
       <title>Fictional Language Lecture 7</title>
