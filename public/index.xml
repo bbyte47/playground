@@ -6,7 +6,7 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 11:12:44 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 05:50:18 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Update</title>
@@ -21,6 +21,13 @@
       <pubDate>Mon, 19 Feb 2024 05:50:18 -0500</pubDate>
       <guid>http://localhost:1313/posts/category_description/</guid>
       <description>Descriptions of the Categories</description>
+    </item>
+    <item>
+      <title>The Exchange</title>
+      <link>http://localhost:1313/posts/exchange/</link>
+      <pubDate>Sun, 03 Mar 2024 05:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/exchange/</guid>
+      <description>An international legal thriller that moves all over the globe</description>
     </item>
     <item>
       <title>Denisovan Mystery</title>
