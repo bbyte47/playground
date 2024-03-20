@@ -6,8 +6,15 @@
     <description>Recent content in Anthropology on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 11:12:44 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 11:12:44 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/anthropology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ArchiTech</title>
+      <link>http://localhost:1313/posts/architech/</link>
+      <pubDate>Tue, 19 Mar 2024 11:12:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/architech/</guid>
+      <description>A friendly AI blog generator</description>
+    </item>
     <item>
       <title>Denisovan Mystery</title>
       <link>http://localhost:1313/posts/denisovan/</link>

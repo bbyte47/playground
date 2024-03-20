@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-06T05:50:18-05:00</lastmod>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hugo_update/</loc>
     <lastmod>2024-02-13T05:50:18-05:00</lastmod>
@@ -14,19 +14,34 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2021-02-18T17:56:12-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/ai-llms/</loc>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/anthropology/</loc>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/archaelogy/</loc>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/architech/</loc>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2024-03-19T11:12:44-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/books-read/</loc>
     <lastmod>2024-03-06T05:50:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-03-06T05:50:18-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/fiction/</loc>
-    <lastmod>2024-03-06T05:50:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-06T05:50:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-06T05:50:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/secret/</loc>
@@ -50,9 +65,6 @@
     <loc>http://localhost:1313/posts/exchange/</loc>
     <lastmod>2024-03-03T05:50:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/anthropology/</loc>
-    <lastmod>2024-03-02T11:12:44-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/denisovan/</loc>
     <lastmod>2024-03-02T11:12:44-05:00</lastmod>
   </url><url>
@@ -67,9 +79,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/imagined/</loc>
     <lastmod>2024-02-27T11:26:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/ai-llms/</loc>
-    <lastmod>2024-02-26T11:18:59-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/content/</loc>
     <lastmod>2024-02-26T11:18:59-05:00</lastmod>
