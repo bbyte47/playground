@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-06-16T13:49:43-04:00</lastmod>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hugo_update/</loc>
     <lastmod>2024-02-13T05:50:18-05:00</lastmod>
@@ -14,8 +14,35 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-02-18T17:56:12-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/roof-over/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brush/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-06-16T13:49:43-04:00</lastmod>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/general/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/roof/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/storm/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/trailer/</loc>
+    <lastmod>2024-07-15T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/etfs/</loc>
     <lastmod>2024-06-16T13:49:43-04:00</lastmod>
@@ -23,16 +50,7 @@
     <loc>http://localhost:1313/posts/etfs/</loc>
     <lastmod>2024-06-16T13:49:43-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-16T13:49:43-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/openai/</loc>
-    <lastmod>2024-06-16T13:49:43-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
-    <lastmod>2024-06-16T13:49:43-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-16T13:49:43-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/three_body/</loc>
@@ -233,9 +251,6 @@
     <loc>http://localhost:1313/tags/power/</loc>
     <lastmod>2023-02-25T16:29:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/storm/</loc>
-    <lastmod>2023-02-25T16:29:07-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/tree/</loc>
     <lastmod>2023-02-25T16:29:07-05:00</lastmod>
   </url><url>
@@ -279,9 +294,6 @@
     <lastmod>2023-02-09T08:36:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dog/</loc>
-    <lastmod>2023-02-09T08:36:50-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/general/</loc>
     <lastmod>2023-02-09T08:36:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/chat/</loc>

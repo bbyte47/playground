@@ -6,8 +6,15 @@
     <description>Recent content in Storm on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 16:29:07 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 12:44:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/storm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A-1 Roof-Over System</title>
+      <link>http://localhost:1313/posts/roof-over/</link>
+      <pubDate>Mon, 15 Jul 2024 12:44:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/roof-over/</guid>
+      <description>Roof installation for trailer.</description>
+    </item>
     <item>
       <title>Ice Storm After</title>
       <link>http://localhost:1313/posts/icestorm_after/</link>
