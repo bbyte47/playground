@@ -1,0 +1,53 @@
+You: Have a git repository that I use two computers with at times. Both computers have a main and develop branch. On this computer when I open vscode on the app am in the develop branch and it shows pending changes that I don't care about now. I want to pull the repository "origin" and make it overwrite both the main and develop branches on this computer so that these barnches match what is in the repository..
+Assistant: Got it! To ensure that your local branches (`main` and `develop`) exactly match those on the remote repository (`origin`), you'll need to perform a few steps. Be cautious, as these steps will overwrite any local changes you have.
+
+### Steps to Reset `main` and `develop` Branches:
+
+1. **Fetch the latest changes from the remote repository:**
+   ```sh
+   git fetch origin
+   ```
+
+2. **Reset the `main` branch:**
+   ```sh
+   git checkout main
+   git reset --hard origin/main
+   ```
+
+3. **Reset the `develop` branch:**
+   ```sh
+   git checkout develop
+   git reset --hard origin/develop
+   ```
+
+### Detailed Steps:
+
+1. **Open your terminal in VSCode or your preferred terminal application.**
+. **Fetch the latest changes:**
+   ```sh
+   git fetch origin
+   ```
+   This command fetches the updates from the remote repository without merging them into your local branches.
+
+3. **Reset the `main` branch:**
+   ```sh
+   git checkout main      # Switch to the main branch
+   git reset --hard origin/main  # Reset it to match the remote main branch
+   ```
+   The `--hard` option will overwrite your local files with the files from the remote branch. This command will remove all local changes in the `main` branch.
+
+4. **Reset the `develop` branch:**
+   ```sh
+   git checkout develop      # Switch to the develop branch
+   git reset --hard origin/develop  # Reset it to match the remote develop branch
+   ```
+   Similar to the `main` branch reset, this will ensure your `develop` branch matches the remote repository.
+
+### Important Notes:
+- **Backup Important Changes:** If you have any changes that you might need later, consider stashing them using `git stash` before resetting:
+  ```sh
+  git stash
+  ```
+- **Uncommitted Changes:** Any uncommitted changes will be lost with the `--hard` reset, so be sure you don't need them before running these commands.
+
+This should ensure that both your `main` and `develop` branches are up-to-date with the remote `origin`. If you need any further assistance or run into issues, feel free to ask!

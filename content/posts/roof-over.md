@@ -14,7 +14,7 @@ description: Roof installation for trailer.
 post: 'roof-over'
 ---
 
-# A roof-over system added to our mobil home
+# A roof-over system added to our mobile home
 
 ![Mobile Home](/image/Intro.JPG)
 

@@ -1,0 +1,81 @@
+Steps to get laptop to match desktop when working with Hugo
+**Fetch the latest changes:**
+   ```sh
+   git fetch origin
+   ```
+   This command fetches the updates from the remote repository without merging them into your local branches.
+
+3. **Reset the `main` branch:**
+   ```sh
+   git checkout main      # Switch to the main branch
+   git reset --hard origin/main  # Reset it to match the remote main branch
+   ```
+   The `--hard` option will overwrite your local files with the files from the remote branch. This command will remove all local changes in the `main` branch.
+
+4. **Reset the `develop` branch:**
+   ```sh
+   git checkout develop      # Switch to the develop branch
+   git reset --hard origin/develop  # Reset it to match the remote develop branch
+   ```
+   Similar to the `main` branch reset, this will ensure your `develop` branch matches the remote repository.
+   
+You: It didn't like the last command git reset --hard origin/develop with this: fatal: ambiguous argument 'origin/develop': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this. It worked for main so is there a way to use main?
+Assistant: The error message you're encountering suggests that there may not be a branch named `develop` on your remote (`origin`). It could be that the branch has a different name or does not exist yet on the remote.
+
+To diagnose and remedy this, you can follow these steps:
+
+### Check for the `develop` Branch on the Remote:
+1. **Fetch all remote branches:**
+   ```sh
+   git fetch --all
+   ```
+
+2. **List remote branches:**
+   ```sh
+   git branch -r
+   ```
+   This command will list all remote branches. Look for `origin/develop` in the list. If it’s there, the issue might be with your local branch setup. If it’s not there, the branch does not exist on the remote.
+
+### Create a Local `develop` Branch from `main` (if not on Remote):
+If `origin/develop` does not exist and you want your `develop` branch to be similar to `main`, you can create it locally and then push it.
+
+1. **Switch to `main`:**
+   ```sh  
+   git checkout main
+   ```
+
+2. **Create and switch to a new `develop` branch:**
+   ```sh
+   git checkout -b develop
+   ```
+
+3. **Push the new `develop` branch to the remote repository:**
+   ```sh
+   git push -u origin develop
+   ```
+
+### If `develop` Exists Remotely:
+1. **Ensure Your Local `develop` Branch Can Track the Remote:**
+   ```sh
+   git checkout -b develop origin/develop
+   ```
+   This will create a local `develop` branch tracking the remote `origin/develop`.
+
+2. **Then Reset the Local `develop` Branch to Match the Remote:**
+   ```sh
+   git reset --hard origin/develop
+   ```
+
+
+
+This will put me in the develop branch again
+do a hugo new posts/[new post.md]
+Create the post and add any pictures
+then 
+git add .
+git commit -m "New post added"
+git checkout main
+git merge develop
+git push
+git checkout develop
