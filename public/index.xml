@@ -6,7 +6,7 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2024 12:44:33 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 12:44:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Update</title>
@@ -21,6 +21,13 @@
       <pubDate>Mon, 19 Feb 2024 05:50:18 -0500</pubDate>
       <guid>http://localhost:1313/posts/category_description/</guid>
       <description>Descriptions of the Categories</description>
+    </item>
+    <item>
+      <title>Exploring Popular Stable Diffusion Versions</title>
+      <link>http://localhost:1313/posts/stable-versions/</link>
+      <pubDate>Wed, 04 Dec 2024 12:44:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/stable-versions/</guid>
+      <description>Looking at different Stable Diffusion versions</description>
     </item>
     <item>
       <title>Stable Diffusion</title>
