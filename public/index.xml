@@ -6,7 +6,7 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Dec 2024 12:44:33 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 12:44:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Update</title>
@@ -21,6 +21,13 @@
       <pubDate>Mon, 19 Feb 2024 05:50:18 -0500</pubDate>
       <guid>http://localhost:1313/posts/category_description/</guid>
       <description>Descriptions of the Categories</description>
+    </item>
+    <item>
+      <title>Cursor AI</title>
+      <link>http://localhost:1313/posts/cursor/</link>
+      <pubDate>Tue, 04 Feb 2025 12:44:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/cursor/</guid>
+      <description>Working with AI services enhance or create applications</description>
     </item>
     <item>
       <title>Exploring Popular Stable Diffusion Versions</title>
