@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-04T12:44:33-05:00</lastmod>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hugo_update/</loc>
     <lastmod>2024-02-13T05:50:18-05:00</lastmod>
@@ -14,6 +14,30 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-02-18T17:56:12-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/books-read/</loc>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/fallenout/</loc>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fiction/</loc>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/suspense/</loc>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thriller/</loc>
+    <lastmod>2025-03-20T12:44:33-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-02-04T12:44:33-05:00</lastmod>
   </url><url>
@@ -23,19 +47,10 @@
     <loc>http://localhost:1313/tags/application-helper/</loc>
     <lastmod>2025-02-04T12:44:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-02-04T12:44:33-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/cursor/</loc>
     <lastmod>2025-02-04T12:44:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-04T12:44:33-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/programming/</loc>
-    <lastmod>2025-02-04T12:44:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-04T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/stable-versions/</loc>
@@ -80,10 +95,10 @@
     <loc>http://localhost:1313/categories/trailer/</loc>
     <lastmod>2024-07-15T12:44:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/etfs/</loc>
+    <loc>http://localhost:1313/posts/etfs/</loc>
     <lastmod>2024-06-16T13:49:43-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/etfs/</loc>
+    <loc>http://localhost:1313/tags/etfs/</loc>
     <lastmod>2024-06-16T13:49:43-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/openai/</loc>
@@ -92,17 +107,8 @@
     <loc>http://localhost:1313/posts/three_body/</loc>
     <lastmod>2024-04-20T05:50:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/books-read/</loc>
-    <lastmod>2024-04-20T05:50:18-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/science-fiction/</loc>
     <lastmod>2024-04-20T05:50:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/thriller/</loc>
-    <lastmod>2024-04-20T05:50:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/fiction/</loc>
-    <lastmod>2024-03-23T05:50:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cellist/</loc>
     <lastmod>2024-03-23T05:50:18-05:00</lastmod>
@@ -213,9 +219,6 @@
     <lastmod>2024-02-17T05:50:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/shogun/</loc>
-    <lastmod>2024-02-17T05:50:18-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/suspense/</loc>
     <lastmod>2024-02-17T05:50:18-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hail_mary/</loc>
