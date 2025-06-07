@@ -1,5 +1,5 @@
 ---
-title: 'Humans and Fire Lecture 3'
+title: The Human Family Lecture 3'
 date: 2023-02-17T11:26:30-05:00
 draft: false
 categories:
