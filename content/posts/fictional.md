@@ -1,5 +1,5 @@
 ---
-title: 'Wow Moment Lecture 8'
+title: 'Cognitive Revolution Lecture 8 Addition'
 date: 2024-03-01T11:26:30-05:00
 draft: false
 categories:
@@ -11,22 +11,39 @@ description: 'Understanding our world in a different light'
 post: 'fictional'
 ---
 
-## Trying to grasp fictional language
+## Ghosts Around the Campfire, Then and Now
 
 ![Angel](/image/church.jpg)
 
-Up to this point in Dr Harami’s lectures, have found them interesting and was exposed to some new concepts such as babies born not fully developed due to us walking upright and the narrowing of the birth canal. For me accepting that homo sapiens are an animal species was nothing new since there has been a lot of documentation of that my whole life and have had no problem accepting that. Do realize that this position is in the minority still and will possibly stay that way for as long as we exist. A little wordy in saying that this was not the Wow moment for me.
+*Understanding Our World in a Different Light*
+*March 1, 2024*
 
-To refresh Dr Harami's history started 70,000 years ago as the rest falls under the biological arena since we were not that much different from chimpanzees. He doesn’t have an explanation for what triggered the Cognitive Revolution other than a suggestion it was some genetic mutation that tied out two brain nodes together. But whatever it was, this made our species ascend to the top of the animal hierarchy. Along the way there were many advances that helped in this transformation. He brought up fire which was extremely important in providing many benefits such as warmth, protection, and allowing us to eat a wider variety of food. It has also been estimated that it allowed for our intestine track to shorten as cooked food is much more digestible.
+### Grasping the Power of Fictional Constructs
 
-There was the invention of the needle which allowed clothing to be sewed giving better insulation so that we could eventually settle in Siberia and then move into the Americas. Our cousins, the Neanderthals, who spent most of their existence in colder climates, were not able to live in the extreme colds of Siberia. And none of our cousins were able to use ships to settle remote ocean places such as Australia which was first inhabited by Sapiens around 40,000 years ago. While these and other inventions are important allowing us to achieve boundaries that our cousins couldn’t, they are not the reason for our superiority. It was the invention and use of fictional stories that our species was able to utilize and band together in large numbers that overcame all resistance.
+Up to this point in Dr. Harari’s lectures, I found the material engaging and was introduced to concepts like the evolutionary trade-offs of bipedalism affecting childbirth. Recognizing Homo sapiens as part of the animal kingdom wasn't new to me; it's a perspective I've long accepted, even if it's not widely held.
 
-Dr Harari states the fact is there are no gods in the universe. There are no nations. There are no corporations. There is no money. There are no such thing as human rights. There are no laws. There is no justice anywhere outside the common imagination of us sapiens and the stories we tell each other. We can more easily understand that primitive tribes cement the social order by believing in ghosts and spirits while gathering each full moon to dance around a camp fire. What we fail to recognize is that our modern institutions like corporations and states and law courts function on exactly the same basis. For me, this was the big Wow or leap if you will.
+However, the true "wow" moment came when Dr. Harari introduced the idea that our ability to believe in shared fictions—stories that exist only in our collective imagination—has been pivotal in our species' dominance.
 
-Now there are all kind of real things that you can’t touch or see without some kind of special equipment. Take oxygen for example; we need it to survive, breath it with every breath, yet it is not something we can see or touch like a tree. Take his argument on Peugeot where a court causes it to cease existence. Here are a few examples of that happening to some corporations:
+### The Cognitive Revolution: A Leap in Imagination
 
-- Enron: This energy giant was brought down by an elaborate accounting scandal that hid massive amounts of debt, one of the most infamous cases of corporate fraud.
-- Lehman Brothers: A key player in the subprime mortgage crisis, their risky investments and over-leveraging played a major role in the 2008 financial collapse.
-- Washington Mutual: This was the largest savings and loan in the US. Its aggressive lending practices made it extremely vulnerable to the housing market crash.
+Dr. Harari marks the beginning of history around 70,000 years ago with the Cognitive Revolution. While the exact trigger remains uncertain, possibly a genetic mutation enhancing brain connectivity, this period saw Homo sapiens develop unprecedented cognitive abilities. This leap allowed us to create and believe in shared myths, enabling large-scale cooperation among individuals who didn't personally know each other.
 
-Here is where that argument might have an issue. Take a tree and let’s call it Sara’s tree, chop it down, burn it until even the ashes are consumed. Does that mean the tree didn’t exist? Enron, Lehman Brothers, and Washington Mutual no longer exist. Does that make them less real? I would argue that while the tree is real, they are not. Microsoft is headquartered in Redmond, Washington. I can go there and touch a building that is used by Microsoft employees. And neither the building or the employees are Microsoft as they can both be replaced and the story of Microsoft will continue. I own property in Indiana and the property is real and I am also real. Once I die my story dies with me and the property will get a new story. The story concept is extremely hard to comprehend since all our lives we are living stories that are taken for real; not just stories.
+### Tools and Innovations: Stepping Stones, Not the Foundation
+
+Technological advancements like the control of fire provided warmth, protection, and the ability to cook food, leading to physiological changes such as a shorter digestive tract. The invention of the needle allowed for tailored clothing, facilitating human settlement in colder regions like Siberia. While these innovations were significant, they weren't unique to Homo sapiens. Our relatives, like the Neanderthals, also used tools but didn't achieve the same global dominance.
+
+### Fictional Realities: The True Game Changer
+
+What set Homo sapiens apart was our capacity to create and believe in shared fictions. Dr. Harari emphasizes that entities like gods, nations, corporations, money, human rights, laws, and justice don't exist outside our collective imagination. These constructs have no physical form, yet they govern our lives and societies.
+
+Consider primitive tribes gathering around a campfire, dancing under the belief in spirits. Modern institutions operate similarly. Corporations, for instance, are legal fictions. Take Peugeot: even if all its cars and factories vanished, the company could still exist as a legal entity because people believe in its existence.&#x20;
+
+### Challenging the Notion of Reality
+
+This perspective challenges our understanding of reality. Oxygen is invisible and intangible, yet its existence is undeniable due to its effects. Similarly, corporations can be dissolved, as seen with Enron, Lehman Brothers, and Washington Mutual. Their physical assets might remain, but the entities cease to exist because the collective belief in them dissipates.
+
+This realization prompts a deeper question: if these constructs are so integral to our lives yet exist only in our minds, how do we differentiate between what's real and what's imagined?
+
+### Reflecting on Our Shared Stories
+
+This concept was a profound revelation for me. It underscores the immense power of storytelling and shared beliefs in shaping human societies. Recognizing that much of our world is built upon collective imagination doesn't diminish its significance; instead, it highlights the unique capabilities of Homo sapiens to create complex, cooperative societies.

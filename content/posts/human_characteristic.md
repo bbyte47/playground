@@ -1,5 +1,5 @@
 ---
-title: 'Human Characteristic Lecture 2'
+title: 'The Human Family Lecture 2'
 date: 2023-02-15T09:53:58-05:00
 draft: false
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - Hominoidea
   - BH Section 1
-description: 'Human Characteristic'
+description: 'Brief History Characteristics'
 post: 'human_characteristic'
 ---
 
