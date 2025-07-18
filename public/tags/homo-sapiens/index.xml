@@ -6,8 +6,15 @@
     <description>Recent content in Homo Sapiens on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jul 2025 12:44:33 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 12:44:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/homo-sapiens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hunter Gatherers: Possibly a Better Way Of Life Lecture 10</title>
+      <link>http://localhost:1313/posts/hunter/</link>
+      <pubDate>Thu, 17 Jul 2025 12:44:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/hunter/</guid>
+      <description>Understanding some of the benefits of a hunter gatherer society</description>
+    </item>
     <item>
       <title>The Cognitive Revolution: A Turning Point in Human Evolution Lecture 10</title>
       <link>http://localhost:1313/posts/cognitive/</link>
