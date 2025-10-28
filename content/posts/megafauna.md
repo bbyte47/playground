@@ -1,5 +1,5 @@
 ---
-title: 'Megafaunal Extinction Lecture 16'
+title: 'Megafauna Extinction Lecture 16'
 date: 2025-10-27T12:44:33-05:00
 draft: false
 categories:
@@ -8,8 +8,8 @@ tags:
   - Cognitive Revolution
   - Homo Sapiens
   - BH Section 4
-description: "Homo Sapiens and megafaunal extinction"
-post: 'megafaunal'
+description: "Homo Sapiens and megafauna extinction"
+post: 'megafauna'
 ---
 
 ![Editor](/image/Lecture16-Diprotodon.png)
