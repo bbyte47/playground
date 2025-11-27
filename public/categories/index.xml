@@ -6,8 +6,15 @@
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2025 12:44:33 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 12:44:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFL</title>
+      <link>http://localhost:1313/categories/nfl/</link>
+      <pubDate>Wed, 26 Nov 2025 12:44:33 -0500</pubDate>
+      <guid>http://localhost:1313/categories/nfl/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Brief History</title>
       <link>http://localhost:1313/categories/brief-history/</link>
