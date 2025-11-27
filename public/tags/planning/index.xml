@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Development on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/development/</link>
-    <description>Recent content in Development on My New Hugo Site</description>
+    <title>Planning on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/planning/</link>
+    <description>Recent content in Planning on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Nov 2025 12:54:33 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/planning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coaches Weekly Activities</title>
       <link>http://localhost:1313/posts/coaches/</link>
       <pubDate>Wed, 26 Nov 2025 12:54:33 -0500</pubDate>
       <guid>http://localhost:1313/posts/coaches/</guid>
       <description>Weekly activities that decribes a NFL coach during the week.</description>
-    </item>
-    <item>
-      <title>NFL Player Weekly Activities</title>
-      <link>http://localhost:1313/posts/player_week/</link>
-      <pubDate>Wed, 26 Nov 2025 12:44:33 -0500</pubDate>
-      <guid>http://localhost:1313/posts/player_week/</guid>
-      <description>Weekly activities that decribes an NFL player during the week.</description>
     </item>
   </channel>
 </rss>
