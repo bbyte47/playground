@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-26T12:54:33-05:00</lastmod>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hugo_update/</loc>
     <lastmod>2024-02-13T05:50:18-05:00</lastmod>
@@ -14,8 +14,29 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-02-18T17:56:12-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/bh-section-4/</loc>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/brief-history/</loc>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-11-26T12:54:33-05:00</lastmod>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cognitive-revolution/</loc>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/homo-sapiens/</loc>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/plants/</loc>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/coaches/</loc>
     <lastmod>2025-11-26T12:54:33-05:00</lastmod>
@@ -26,16 +47,10 @@
     <loc>http://localhost:1313/tags/development/</loc>
     <lastmod>2025-11-26T12:54:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-26T12:54:33-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/nfl/</loc>
     <lastmod>2025-11-26T12:54:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/planning/</loc>
-    <lastmod>2025-11-26T12:54:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-26T12:54:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/health/</loc>
@@ -46,18 +61,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/player-work-activities/</loc>
     <lastmod>2025-11-26T12:44:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bh-section-4/</loc>
-    <lastmod>2025-10-27T12:44:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/brief-history/</loc>
-    <lastmod>2025-10-27T12:44:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cognitive-revolution/</loc>
-    <lastmod>2025-10-27T12:44:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/homo-sapiens/</loc>
-    <lastmod>2025-10-27T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/megafauna/</loc>
     <lastmod>2025-10-27T12:44:33-05:00</lastmod>
