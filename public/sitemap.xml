@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hugo_update/</loc>
     <lastmod>2024-02-13T05:50:18-05:00</lastmod>
@@ -14,13 +14,37 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-02-18T17:56:12-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/ai-llms/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chat/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/codex/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/codex/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/openai/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/web-development/</loc>
+    <lastmod>2026-04-01T13:37:47-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/bh-section-4/</loc>
     <lastmod>2026-01-07T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/brief-history/</loc>
-    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-01-07T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cognitive-revolution/</loc>
@@ -30,12 +54,6 @@
     <lastmod>2026-01-07T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/plants/</loc>
-    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-07T12:44:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-01-07T12:44:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/coaches/</loc>
@@ -104,9 +122,6 @@
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-02-04T12:44:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ai-llms/</loc>
-    <lastmod>2025-02-04T12:44:33-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/application-helper/</loc>
     <lastmod>2025-02-04T12:44:33-05:00</lastmod>
   </url><url>
@@ -162,9 +177,6 @@
     <lastmod>2024-06-16T13:49:43-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/etfs/</loc>
-    <lastmod>2024-06-16T13:49:43-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/openai/</loc>
     <lastmod>2024-06-16T13:49:43-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/three_body/</loc>
@@ -293,9 +305,6 @@
     <loc>http://localhost:1313/posts/new_site/</loc>
     <lastmod>2024-02-14T05:50:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/web-development/</loc>
-    <lastmod>2024-02-14T05:50:18-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/cave/</loc>
     <lastmod>2024-02-05T11:12:44-05:00</lastmod>
   </url><url>
@@ -307,9 +316,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/image_generator/</loc>
     <lastmod>2023-12-02T14:39:26-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/chat/</loc>
-    <lastmod>2023-07-22T13:37:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/chatgpt-sqlite/</loc>
     <lastmod>2023-07-22T13:37:47-04:00</lastmod>
