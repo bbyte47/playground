@@ -13,7 +13,7 @@ description: 'The Joy of using Chat and Codex in combination creating web apps'
 post: 'codex'
 ---
 
-![coding](/image/coding-setup.png)
+![coding](/image/setup.png)
 
 # The Joy of Building TinyNotes --- A More Human Story of AI-Assisted Development
 
