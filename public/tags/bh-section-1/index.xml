@@ -6,40 +6,42 @@
     <description>Recent content in BH Section 1 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>your@email.com (Your Name)</managingEditor>
+    <webMaster>your@email.com (Your Name)</webMaster>
     <lastBuildDate>Tue, 20 Feb 2024 09:53:58 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/bh-section-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human Migration Lecture 4</title>
       <link>http://localhost:1313/posts/human_migration/</link>
-      <pubDate>Tue, 20 Feb 2024 09:53:58 -0500</pubDate>
+      <pubDate>Tue, 20 Feb 2024 09:53:58 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/human_migration/</guid>
       <description>Human migration and meeting other species</description>
     </item>
     <item>
       <title>Humans and Fire Lecture 3</title>
       <link>http://localhost:1313/posts/human_fire/</link>
-      <pubDate>Fri, 17 Feb 2023 11:26:30 -0500</pubDate>
+      <pubDate>Fri, 17 Feb 2023 11:26:30 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/human_fire/</guid>
       <description>How controlling fire helped us develop</description>
     </item>
     <item>
       <title>Human Characteristic Lecture 2</title>
       <link>http://localhost:1313/posts/human_characteristic/</link>
-      <pubDate>Wed, 15 Feb 2023 09:53:58 -0500</pubDate>
+      <pubDate>Wed, 15 Feb 2023 09:53:58 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/human_characteristic/</guid>
       <description>Human Characteristic</description>
     </item>
     <item>
       <title>The Human Family Lecture 1-1</title>
       <link>http://localhost:1313/posts/human_family/</link>
-      <pubDate>Tue, 14 Feb 2023 10:52:36 -0500</pubDate>
+      <pubDate>Tue, 14 Feb 2023 10:52:36 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/human_family/</guid>
       <description>Brief History course lecture 1-1</description>
     </item>
     <item>
       <title>Brief History Introduction</title>
       <link>http://localhost:1313/posts/brief_history/</link>
-      <pubDate>Sat, 11 Feb 2023 11:09:22 -0500</pubDate>
+      <pubDate>Sat, 11 Feb 2023 11:09:22 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/brief_history/</guid>
       <description>Human Family</description>
     </item>

@@ -6,40 +6,42 @@
     <description>Recent content in BH Section 3 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>your@email.com (Your Name)</managingEditor>
+    <webMaster>your@email.com (Your Name)</webMaster>
     <lastBuildDate>Fri, 12 Sep 2025 12:44:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/bh-section-3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unseen Life Of Ancient Foragers: Lecture 14</title>
       <link>http://localhost:1313/posts/unseen/</link>
-      <pubDate>Fri, 12 Sep 2025 12:44:33 -0500</pubDate>
+      <pubDate>Fri, 12 Sep 2025 12:44:33 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/unseen/</guid>
       <description>Through DNA the pieces are starting to come together</description>
     </item>
     <item>
       <title>Ancient Beliefs: Lecture 13</title>
       <link>http://localhost:1313/posts/animistic/</link>
-      <pubDate>Tue, 19 Aug 2025 12:44:33 -0500</pubDate>
+      <pubDate>Tue, 19 Aug 2025 12:44:33 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/animistic/</guid>
       <description>What can we know about ancient beliefs</description>
     </item>
     <item>
       <title>Hunter Gatherers: Benefits Gained From This Life Style Lecture 12</title>
       <link>http://localhost:1313/posts/gatherer/</link>
-      <pubDate>Mon, 04 Aug 2025 12:44:33 -0500</pubDate>
+      <pubDate>Mon, 04 Aug 2025 12:44:33 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/gatherer/</guid>
       <description>Comparing hunter gatherers to agricultural societies</description>
     </item>
     <item>
       <title>Hunter Gatherers: Possibly a Better Way Of Life Lecture 11</title>
       <link>http://localhost:1313/posts/hunter/</link>
-      <pubDate>Thu, 17 Jul 2025 12:44:33 -0500</pubDate>
+      <pubDate>Thu, 17 Jul 2025 12:44:33 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/hunter/</guid>
       <description>Understanding some of the benefits of a hunter gatherer society</description>
     </item>
     <item>
       <title>The Cognitive Revolution: A Turning Point in Human Evolution Lecture 10</title>
       <link>http://localhost:1313/posts/cognitive/</link>
-      <pubDate>Sun, 06 Jul 2025 12:44:33 -0500</pubDate>
+      <pubDate>Sun, 06 Jul 2025 12:44:33 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/cognitive/</guid>
       <description>Understanding the impact of the Cognitive Revolution on human evolution</description>
     </item>

@@ -6,33 +6,35 @@
     <description>Recent content in AI on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>your@email.com (Your Name)</managingEditor>
+    <webMaster>your@email.com (Your Name)</webMaster>
     <lastBuildDate>Tue, 04 Feb 2025 12:44:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cursor AI</title>
       <link>http://localhost:1313/posts/cursor/</link>
-      <pubDate>Tue, 04 Feb 2025 12:44:33 -0500</pubDate>
+      <pubDate>Tue, 04 Feb 2025 12:44:33 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/cursor/</guid>
       <description>Working with AI services enhance or create applications</description>
     </item>
     <item>
       <title>Exploring Popular Stable Diffusion Versions</title>
       <link>http://localhost:1313/posts/stable-versions/</link>
-      <pubDate>Wed, 04 Dec 2024 12:44:33 -0500</pubDate>
+      <pubDate>Wed, 04 Dec 2024 12:44:33 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/stable-versions/</guid>
       <description>Looking at different Stable Diffusion versions</description>
     </item>
     <item>
       <title>Stable Diffusion</title>
       <link>http://localhost:1313/posts/stable/</link>
-      <pubDate>Tue, 15 Oct 2024 12:44:33 -0500</pubDate>
+      <pubDate>Tue, 15 Oct 2024 12:44:33 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/stable/</guid>
       <description>Working with Stable Diffusion</description>
     </item>
     <item>
       <title>Image Generator</title>
       <link>http://localhost:1313/posts/image_generator/</link>
-      <pubDate>Sat, 02 Dec 2023 14:39:26 -0500</pubDate>
+      <pubDate>Sat, 02 Dec 2023 14:39:26 -0500</pubDate><author>your@email.com (Your Name)</author>
       <guid>http://localhost:1313/posts/image_generator/</guid>
       <description>A brief discussion on image generators</description>
     </item>

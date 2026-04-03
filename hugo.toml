@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
 
+[params.author]
+name = "Your Name"
+email = "your@email.com"
+
 [menu]
   [[menu.main]]
     name = "Categories"
