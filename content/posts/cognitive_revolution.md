@@ -7,7 +7,7 @@ categories:
 tags:
   - Hominoidea
   - BH Section 2
-description: 'What changed us from middle of the pact to the apex predator'
+description: 'What changed us from middle of the pact to the apex predator lecture 1 in Section 2'
 post: 'cognitive_revolution'
 ---
 

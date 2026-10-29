@@ -1,5 +1,5 @@
 ---
-title: 'Speech Sparked Cognitive Revolution Lecture 6'
+title: 'Cognitive Revolution Lecture 6'
 date: 2024-02-22T11:26:30-05:00
 draft: false
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - Hominoidea
   - BH Section 2
-description: 'Analysis of speech, gossip, and the cognitive revolution'
+description: 'Analysis of speech, gossip, and the cognitive revolution Lecture 2 Section 2'
 post: 'speech'
 ---
 

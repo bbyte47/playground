@@ -1,5 +1,5 @@
 ---
-title: 'Imagined Reality Lecture 8'
+title: 'Cognitive Revolution Lecture 8'
 date: 2024-02-27T11:26:30-05:00
 draft: false
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - Hominoidea
   - BH Section 2
-description: 'How our dual reality shapes the world'
+description: 'How our dual reality shapes the world Lecture 4 Section 2'
 post: 'speech'
 ---
 

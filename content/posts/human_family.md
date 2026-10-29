@@ -1,5 +1,5 @@
 ---
-title: 'The Human Family Lecture 1-1'
+title: 'The Human Family Lecture 1'
 date: 2023-02-14T10:52:36-05:00
 draft: false
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - Hominoidea
   - BH Section 1
-description: 'Brief History course lecture 1-1'
+description: 'Brief History Timeline from Beginning'
 post: 'human_family'
 ---
 

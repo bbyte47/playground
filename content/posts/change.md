@@ -1,5 +1,5 @@
 ---
-title: 'Social Change Lecture 9'
+title: 'Cognitive Revolution Lecture 9'
 date: 2024-03-05T11:26:30-05:00
 draft: false
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - Hominoidea
   - BH Section 2
-description: 'Adaptability to significant social change'
+description: 'Adaptability to significant social change Lecture 5 Section 2'
 post: 'change'
 ---
 

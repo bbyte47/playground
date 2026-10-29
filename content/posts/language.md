@@ -1,5 +1,5 @@
 ---
-title: 'Fictional Language Lecture 7'
+title: 'Cognitive Revolution Lecture 7'
 date: 2024-02-25T11:26:30-05:00
 draft: false
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - Hominoidea
   - BH Section 2
-description: 'Fictional language and our epic rise'
+description: 'Fictional language and our epic rise Lecture 3 Section 2'
 post: 'speech'
 ---
 
